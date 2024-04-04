@@ -1,0 +1,317 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\DotNetProgramss\\ArrayPrograms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80584392-84E0-440E-A27D-C709F72FCC9D}|ArrayPrograms\\ArrayPrograms.csproj|f:\\dotnetprogramss\\arrayprograms\\arrayprograms\\uniqueelements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80584392-84E0-440E-A27D-C709F72FCC9D}|ArrayPrograms\\ArrayPrograms.csproj|solutionrelative:arrayprograms\\uniqueelements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80584392-84E0-440E-A27D-C709F72FCC9D}|ArrayPrograms\\ArrayPrograms.csproj|F:\\DotNetProgramss\\ArrayPrograms\\arrayprograms\\insertelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80584392-84E0-440E-A27D-C709F72FCC9D}|ArrayPrograms\\ArrayPrograms.csproj|solutionrelative:arrayprograms\\insertelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80584392-84E0-440E-A27D-C709F72FCC9D}|ArrayPrograms\\ArrayPrograms.csproj|F:\\DotNetProgramss\\ArrayPrograms\\arrayprograms\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80584392-84E0-440E-A27D-C709F72FCC9D}|ArrayPrograms\\ArrayPrograms.csproj|solutionrelative:arrayprograms\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80584392-84E0-440E-A27D-C709F72FCC9D}|ArrayPrograms\\ArrayPrograms.csproj|F:\\DotNetProgramss\\ArrayPrograms\\arrayprograms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80584392-84E0-440E-A27D-C709F72FCC9D}|ArrayPrograms\\ArrayPrograms.csproj|solutionrelative:arrayprograms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80584392-84E0-440E-A27D-C709F72FCC9D}|ArrayPrograms\\ArrayPrograms.csproj|F:\\DotNetProgramss\\ArrayPrograms\\arrayprograms\\sortelemasc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80584392-84E0-440E-A27D-C709F72FCC9D}|ArrayPrograms\\ArrayPrograms.csproj|solutionrelative:arrayprograms\\sortelemasc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80584392-84E0-440E-A27D-C709F72FCC9D}|ArrayPrograms\\ArrayPrograms.csproj|F:\\DotNetProgramss\\ArrayPrograms\\arrayprograms\\sortelemdesc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80584392-84E0-440E-A27D-C709F72FCC9D}|ArrayPrograms\\ArrayPrograms.csproj|solutionrelative:arrayprograms\\sortelemdesc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80584392-84E0-440E-A27D-C709F72FCC9D}|ArrayPrograms\\ArrayPrograms.csproj|F:\\DotNetProgramss\\ArrayPrograms\\arrayprograms\\arraybasics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80584392-84E0-440E-A27D-C709F72FCC9D}|ArrayPrograms\\ArrayPrograms.csproj|solutionrelative:arrayprograms\\arraybasics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80584392-84E0-440E-A27D-C709F72FCC9D}|ArrayPrograms\\ArrayPrograms.csproj|F:\\DotNetProgramss\\ArrayPrograms\\arrayprograms\\minandmaxelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80584392-84E0-440E-A27D-C709F72FCC9D}|ArrayPrograms\\ArrayPrograms.csproj|solutionrelative:arrayprograms\\minandmaxelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80584392-84E0-440E-A27D-C709F72FCC9D}|ArrayPrograms\\ArrayPrograms.csproj|F:\\DotNetProgramss\\ArrayPrograms\\arrayprograms\\multidimandjaggedarrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80584392-84E0-440E-A27D-C709F72FCC9D}|ArrayPrograms\\ArrayPrograms.csproj|solutionrelative:arrayprograms\\multidimandjaggedarrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80584392-84E0-440E-A27D-C709F72FCC9D}|ArrayPrograms\\ArrayPrograms.csproj|F:\\DotNetProgramss\\ArrayPrograms\\arrayprograms\\mergetwoarrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80584392-84E0-440E-A27D-C709F72FCC9D}|ArrayPrograms\\ArrayPrograms.csproj|solutionrelative:arrayprograms\\mergetwoarrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80584392-84E0-440E-A27D-C709F72FCC9D}|ArrayPrograms\\ArrayPrograms.csproj|F:\\DotNetProgramss\\ArrayPrograms\\arrayprograms\\countfrequency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80584392-84E0-440E-A27D-C709F72FCC9D}|ArrayPrograms\\ArrayPrograms.csproj|solutionrelative:arrayprograms\\countfrequency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80584392-84E0-440E-A27D-C709F72FCC9D}|ArrayPrograms\\ArrayPrograms.csproj|F:\\DotNetProgramss\\ArrayPrograms\\arrayprograms\\sumofelements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80584392-84E0-440E-A27D-C709F72FCC9D}|ArrayPrograms\\ArrayPrograms.csproj|solutionrelative:arrayprograms\\sumofelements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80584392-84E0-440E-A27D-C709F72FCC9D}|ArrayPrograms\\ArrayPrograms.csproj|F:\\DotNetProgramss\\ArrayPrograms\\arrayprograms\\seperateevenodd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80584392-84E0-440E-A27D-C709F72FCC9D}|ArrayPrograms\\ArrayPrograms.csproj|solutionrelative:arrayprograms\\seperateevenodd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80584392-84E0-440E-A27D-C709F72FCC9D}|ArrayPrograms\\ArrayPrograms.csproj|F:\\DotNetProgramss\\ArrayPrograms\\arrayprograms\\countduplicateelements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80584392-84E0-440E-A27D-C709F72FCC9D}|ArrayPrograms\\ArrayPrograms.csproj|solutionrelative:arrayprograms\\countduplicateelements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80584392-84E0-440E-A27D-C709F72FCC9D}|ArrayPrograms\\ArrayPrograms.csproj|F:\\DotNetProgramss\\ArrayPrograms\\arrayprograms\\copyelements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80584392-84E0-440E-A27D-C709F72FCC9D}|ArrayPrograms\\ArrayPrograms.csproj|solutionrelative:arrayprograms\\copyelements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80584392-84E0-440E-A27D-C709F72FCC9D}|ArrayPrograms\\ArrayPrograms.csproj|F:\\DotNetProgramss\\ArrayPrograms\\arrayprograms\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{80584392-84E0-440E-A27D-C709F72FCC9D}|ArrayPrograms\\ArrayPrograms.csproj|solutionrelative:arrayprograms\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80584392-84E0-440E-A27D-C709F72FCC9D}|ArrayPrograms\\ArrayPrograms.csproj|F:\\DotNetProgramss\\ArrayPrograms\\arrayprograms\\storeelemenstandprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80584392-84E0-440E-A27D-C709F72FCC9D}|ArrayPrograms\\ArrayPrograms.csproj|solutionrelative:arrayprograms\\storeelemenstandprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80584392-84E0-440E-A27D-C709F72FCC9D}|ArrayPrograms\\ArrayPrograms.csproj|F:\\DotNetProgramss\\ArrayPrograms\\arrayprograms\\reversearray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80584392-84E0-440E-A27D-C709F72FCC9D}|ArrayPrograms\\ArrayPrograms.csproj|solutionrelative:arrayprograms\\reversearray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InsertElement.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\ArrayPrograms\\ArrayPrograms\\InsertElement.cs",
+              "RelativeDocumentMoniker": "ArrayPrograms\\InsertElement.cs",
+              "ToolTip": "F:\\DotNetProgramss\\ArrayPrograms\\ArrayPrograms\\InsertElement.cs",
+              "RelativeToolTip": "ArrayPrograms\\InsertElement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T06:27:36.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SortElemAsc.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\ArrayPrograms\\ArrayPrograms\\SortElemAsc.cs",
+              "RelativeDocumentMoniker": "ArrayPrograms\\SortElemAsc.cs",
+              "ToolTip": "F:\\DotNetProgramss\\ArrayPrograms\\ArrayPrograms\\SortElemAsc.cs",
+              "RelativeToolTip": "ArrayPrograms\\SortElemAsc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T05:51:12.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\ArrayPrograms\\ArrayPrograms\\Employee.cs",
+              "RelativeDocumentMoniker": "ArrayPrograms\\Employee.cs",
+              "ToolTip": "F:\\DotNetProgramss\\ArrayPrograms\\ArrayPrograms\\Employee.cs",
+              "RelativeToolTip": "ArrayPrograms\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T18:27:55.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\ArrayPrograms\\ArrayPrograms\\Program.cs",
+              "RelativeDocumentMoniker": "ArrayPrograms\\Program.cs",
+              "ToolTip": "F:\\DotNetProgramss\\ArrayPrograms\\ArrayPrograms\\Program.cs",
+              "RelativeToolTip": "ArrayPrograms\\Program.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAQwDwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T11:28:57.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MultiDimAndJaggedArrays.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\ArrayPrograms\\ArrayPrograms\\MultiDimAndJaggedArrays.cs",
+              "RelativeDocumentMoniker": "ArrayPrograms\\MultiDimAndJaggedArrays.cs",
+              "ToolTip": "F:\\DotNetProgramss\\ArrayPrograms\\ArrayPrograms\\MultiDimAndJaggedArrays.cs",
+              "RelativeToolTip": "ArrayPrograms\\MultiDimAndJaggedArrays.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAUwEQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T15:21:55.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ArrayBasics.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\ArrayPrograms\\ArrayPrograms\\ArrayBasics.cs",
+              "RelativeDocumentMoniker": "ArrayPrograms\\ArrayBasics.cs",
+              "ToolTip": "F:\\DotNetProgramss\\ArrayPrograms\\ArrayPrograms\\ArrayBasics.cs",
+              "RelativeToolTip": "ArrayPrograms\\ArrayBasics.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAQwHUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T14:34:20.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MergeTwoArrays.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\ArrayPrograms\\ArrayPrograms\\MergeTwoArrays.cs",
+              "RelativeDocumentMoniker": "ArrayPrograms\\MergeTwoArrays.cs",
+              "ToolTip": "F:\\DotNetProgramss\\ArrayPrograms\\ArrayPrograms\\MergeTwoArrays.cs",
+              "RelativeToolTip": "ArrayPrograms\\MergeTwoArrays.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAQwEwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T16:49:21.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UniqueElements.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\ArrayPrograms\\ArrayPrograms\\UniqueElements.cs",
+              "RelativeDocumentMoniker": "ArrayPrograms\\UniqueElements.cs",
+              "ToolTip": "F:\\DotNetProgramss\\ArrayPrograms\\ArrayPrograms\\UniqueElements.cs",
+              "RelativeToolTip": "ArrayPrograms\\UniqueElements.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T16:33:50.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SortElemDesc.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\ArrayPrograms\\ArrayPrograms\\SortElemDesc.cs",
+              "RelativeDocumentMoniker": "ArrayPrograms\\SortElemDesc.cs",
+              "ToolTip": "F:\\DotNetProgramss\\ArrayPrograms\\ArrayPrograms\\SortElemDesc.cs",
+              "RelativeToolTip": "ArrayPrograms\\SortElemDesc.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T06:16:57.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MinAndMaxElement.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\ArrayPrograms\\ArrayPrograms\\MinAndMaxElement.cs",
+              "RelativeDocumentMoniker": "ArrayPrograms\\MinAndMaxElement.cs",
+              "ToolTip": "F:\\DotNetProgramss\\ArrayPrograms\\ArrayPrograms\\MinAndMaxElement.cs",
+              "RelativeToolTip": "ArrayPrograms\\MinAndMaxElement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T17:43:23.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CountFrequency.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\ArrayPrograms\\ArrayPrograms\\CountFrequency.cs",
+              "RelativeDocumentMoniker": "ArrayPrograms\\CountFrequency.cs",
+              "ToolTip": "F:\\DotNetProgramss\\ArrayPrograms\\ArrayPrograms\\CountFrequency.cs",
+              "RelativeToolTip": "ArrayPrograms\\CountFrequency.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T17:04:09.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SeperateEvenOdd.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\ArrayPrograms\\ArrayPrograms\\SeperateEvenOdd.cs",
+              "RelativeDocumentMoniker": "ArrayPrograms\\SeperateEvenOdd.cs",
+              "ToolTip": "F:\\DotNetProgramss\\ArrayPrograms\\ArrayPrograms\\SeperateEvenOdd.cs",
+              "RelativeToolTip": "ArrayPrograms\\SeperateEvenOdd.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T12:41:01.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StoreElemenstAndprint.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\ArrayPrograms\\ArrayPrograms\\StoreElemenstAndprint.cs",
+              "RelativeDocumentMoniker": "ArrayPrograms\\StoreElemenstAndprint.cs",
+              "ToolTip": "F:\\DotNetProgramss\\ArrayPrograms\\ArrayPrograms\\StoreElemenstAndprint.cs",
+              "RelativeToolTip": "ArrayPrograms\\StoreElemenstAndprint.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T11:31:02.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SumOfElements.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\ArrayPrograms\\ArrayPrograms\\SumOfElements.cs",
+              "RelativeDocumentMoniker": "ArrayPrograms\\SumOfElements.cs",
+              "ToolTip": "F:\\DotNetProgramss\\ArrayPrograms\\ArrayPrograms\\SumOfElements.cs",
+              "RelativeToolTip": "ArrayPrograms\\SumOfElements.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T12:04:33.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ReverseArray.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\ArrayPrograms\\ArrayPrograms\\ReverseArray.cs",
+              "RelativeDocumentMoniker": "ArrayPrograms\\ReverseArray.cs",
+              "ToolTip": "F:\\DotNetProgramss\\ArrayPrograms\\ArrayPrograms\\ReverseArray.cs",
+              "RelativeToolTip": "ArrayPrograms\\ReverseArray.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T12:01:38.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CopyElements.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\ArrayPrograms\\ArrayPrograms\\CopyElements.cs",
+              "RelativeDocumentMoniker": "ArrayPrograms\\CopyElements.cs",
+              "ToolTip": "F:\\DotNetProgramss\\ArrayPrograms\\ArrayPrograms\\CopyElements.cs",
+              "RelativeToolTip": "ArrayPrograms\\CopyElements.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T12:11:07.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CountDuplicateElements.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\ArrayPrograms\\ArrayPrograms\\CountDuplicateElements.cs",
+              "RelativeDocumentMoniker": "ArrayPrograms\\CountDuplicateElements.cs",
+              "ToolTip": "F:\\DotNetProgramss\\ArrayPrograms\\ArrayPrograms\\CountDuplicateElements.cs",
+              "RelativeToolTip": "ArrayPrograms\\CountDuplicateElements.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T12:16:12.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.config",
+              "DocumentMoniker": "F:\\DotNetProgramss\\ArrayPrograms\\ArrayPrograms\\App.config",
+              "RelativeDocumentMoniker": "ArrayPrograms\\App.config",
+              "ToolTip": "F:\\DotNetProgramss\\ArrayPrograms\\ArrayPrograms\\App.config",
+              "RelativeToolTip": "ArrayPrograms\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-07T12:14:37.762Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
